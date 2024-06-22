@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## GitHub Stats
+
+
+|                                                                     Nilupul's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Nilupul's github stats](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&show_icons=true&theme=algolia)              | 
+| ![Nilupul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilupulSayuranga&theme=algolia)                    | 
+    
+
+|                                                                                                      Nilupul's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&langs_count=8&theme=algolia&layout=compact) |
+
+
+
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
