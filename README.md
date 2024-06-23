@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-<h1 align="center">Hi , I'm Nilupul Sayuranga</h1>
+<h1 align="center">Hi , I'm Nilupul Sayuranga</h1> <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 ![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightgreen) </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
