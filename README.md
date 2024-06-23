@@ -26,8 +26,5 @@ Here are some ideas to get you started:
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightgreen)
-
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightgreen)
