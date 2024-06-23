@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
 ## GitHub Stats
 
 
@@ -35,3 +33,12 @@ Here are some ideas to get you started:
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
+
+## Contact Me
+
+
+<p align="center">
+  <a href="https://t.me/Nilupul_Sayuranga"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+</p>
+
+------  
