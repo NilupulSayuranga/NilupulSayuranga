@@ -41,4 +41,4 @@ Here are some ideas to get you started:
     alt="NilupulSayuranga" /> 
   </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
