@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">
+  Welcome to Nilupul Sayuranga's GitHub Profile!
+</h3>
+<p align="center">
+  <a href="https://github.com/NilupulSayuranga/NilupulSayuranga"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nilupul+Sayuranga;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover></a>
+</p>
+
 ## GitHub Stats
 
 
