@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi , I'm Nilupul Sayuranga</h1> <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
-![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightgreen) </p>
+<h1 align="center">Hi , I'm Nilupul Sayuranga</h1> <a align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></a>
