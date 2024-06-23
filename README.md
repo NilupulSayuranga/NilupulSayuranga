@@ -14,28 +14,15 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">
   Welcome to Nilupul Sayuranga's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23">
 </h3>
-<p align="center">
-  <a href="https://github.com/NilupulSayuranga/NilupulSayuranga"><img src="https://readme-typing-svg.herokuapp.com?color=%FF0000&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Nilupul+Sayuranga;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
 
----
-<div align="center">
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NilupulSayuranga&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Stats
-
-
-|                                                                     Nilupul Sayuranga's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Nilupul Sayuranga's github stats](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&show_icons=true&theme=algolia)              | 
-| ![Nilupul Sayuranga's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilupulSayuranga&theme=algolia)                    | 
-    
-|                                                                                                      Nilupul Sayuranga's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&langs_count=8&theme=algolia&layout=compact) |
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NilupylSayuranga&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightgreen)
