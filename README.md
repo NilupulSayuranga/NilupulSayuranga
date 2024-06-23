@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center"> I'm Nilupul Sayuranga</h1> 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
-<p align="center"> ![](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false) </p><br/>
+![](https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NilupulSayuranga&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightred)
+![](https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Visitors+Count&color=brightblue)
