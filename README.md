@@ -3,7 +3,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
 <p align="center">
-  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
+  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%FF000&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
 
 
 <p align="center">
@@ -36,7 +36,11 @@
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
 
-  
+<div align=center>
+        <img src="https://raw.githubusercontent.com/NilupulSayuranga/NilupulSayuranga/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Profile%20views&color=008000&style=flat"
     alt="NilupulSayuranga" /> 
   </p>
