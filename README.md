@@ -33,6 +33,8 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
 
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Profile%20views&color=008000&style=flat"
