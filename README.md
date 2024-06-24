@@ -26,7 +26,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
 
-<h1 align="center"> Social </h1>
+<h1 align="center"> Contact Me </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilupulsayuranga17845@gmail.com)](mailto:nilupulsayuranga17845@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94719051867&text=Hello!)](https://api.whatsapp.com/send?phone=94719051867&text=Hello!)
