@@ -7,6 +7,9 @@
 
 
 <h1 align="center"> My GitHub Stats </h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false"><br/>
 <p align="center">
