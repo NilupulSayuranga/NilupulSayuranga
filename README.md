@@ -7,15 +7,10 @@
 
 
 <h1 align="center"> My GitHub Stats </h1>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPatel04&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=KevinPatel04&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=KevinPatel04&theme=chartreuse-dark"></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false"><br/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilupulSayuranga&theme=radical&hide_border=false"><br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&layout=compact&hide=TSQL&theme=chartreuse-dark">
+</p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NilupulSayuranga&theme=chartreuse-dark"></p>
 
 
 <h1 align="center"> My Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"></h1>
