@@ -30,6 +30,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilupulsayuranga17845@gmail.com)](mailto:nilupulsayuranga17845@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94719051867&text=Hello!)](https://api.whatsapp.com/send?phone=94719051867&text=Hello!)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square&logo=Telegram&logoColor=white&link=t.me/NilupulSayuranga)](t.me/NilupulSayuranga)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
