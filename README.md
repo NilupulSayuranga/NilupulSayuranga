@@ -3,11 +3,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
 <p align="center">
-  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%EE4B2B&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
-
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
 
 
 <h1 align="center"> My GitHub Stats </h1>
@@ -18,9 +14,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h1 align="center"> My Tech Stack </h1>
@@ -41,4 +34,5 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Profile%20views&color=008000&style=flat"
     alt="NilupulSayuranga" /> 
-  </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
