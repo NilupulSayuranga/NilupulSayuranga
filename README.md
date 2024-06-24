@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Everyone </h1>
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px></picture></p>
 
 <p align="center">
   <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
@@ -13,9 +13,9 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NilupulSayuranga&theme=chartreuse-dark"></p>
 
 
-<h1 align="center"> Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"></h1>
+<h1 align="center"> Tech Stack </h1>
 
-<h1 align="centet"> ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
