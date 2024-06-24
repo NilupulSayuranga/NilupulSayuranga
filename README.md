@@ -3,7 +3,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 
 <p align="center">
-  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
+  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%EE4B2B&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a></p>
 
 
 <p align="center">
@@ -35,6 +35,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)&nbsp;
+
+<h1 align="center"> Social </h1>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NilupulSayuranga&label=Profile%20views&color=008000&style=flat"
     alt="NilupulSayuranga" /> 
