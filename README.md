@@ -28,6 +28,8 @@
 
 <h1 align="center"> Social </h1>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilupulsayuranga17845@gmail.com)](mailto:nilupulsayuranga17845@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94719051867&text=Hello!)](https://api.whatsapp.com/send?phone=94719051867&text=Hello!)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
