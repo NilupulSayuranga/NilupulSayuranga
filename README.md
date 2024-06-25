@@ -39,6 +39,8 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B)
+&nbsp;
+![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 </p>
 
 <p align="center">
