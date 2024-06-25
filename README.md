@@ -39,11 +39,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 &nbsp;
 
-<p align="center">
-  &emsp;
-    <img alt"HTML" src="https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=html&logocolor=white">
-  </a>
-  &emsp; 
+&emsp; 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
