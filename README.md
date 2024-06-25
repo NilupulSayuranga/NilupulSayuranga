@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;">
-</a>
+  <a href="https://github.com/NilupulSayuranga/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%236FDA44&size=30&center=true&vCenter=true&width=600&height=100&lines=I+am+Nilupul+Sayuranga;Welcome+to+my+GitHub+Profile;"></a>
 </p>
 
 <p align="center">
@@ -16,7 +15,8 @@
 <h1 align="center"> GitHub Stats </h1>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilupulSayuranga&layout=compact&hide=TSQL&theme=chartreuse-dark">
 </p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=NilupulSayuranga&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
+</p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=NilupulSayuranga&theme=chartreuse-dark">
 </p>
 
@@ -39,22 +39,6 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-
-&emsp; 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
 </p>
 
 <p align="center">
@@ -62,6 +46,14 @@
 </p>
 
 <h1 align="center"> Connect With Me </h1>
+
+<p align="center">
+	<a href="mailto:nilupulsayuranga17845@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/NilupulSayuranga"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/94719051867"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/NilupulSayuranga/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilupulsayuranga17845@gmail.com)](mailto:nilupulsayuranga17845@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94719051867&text=Hello!)](https://api.whatsapp.com/send?phone=94719051867&text=Hello!)
