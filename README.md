@@ -36,7 +36,7 @@
 &nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 &nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 &nbsp;
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=flat&logo=c%2B%2B)
 </p>
@@ -53,12 +53,6 @@
 	<a href="https://wa.me/94719051867"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/NilupulSayuranga/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilupulsayuranga17845@gmail.com)](mailto:nilupulsayuranga17845@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94719051867&text=Hello!)](https://api.whatsapp.com/send?phone=94719051867&text=Hello!)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Nilupul_Sayuranga)](https://t.me/Nilupul_Sayuranga)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/nilupulsayuranga)](https://linkedin.com/in/nilupulsayuranga)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
