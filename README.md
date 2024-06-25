@@ -34,7 +34,7 @@
 
 <p align="center">
   &emsp;
-    <img alt"HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5?style=plastic&logo=html&logocolor=white">
+    <img alt"HTML" src="https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=html&logocolor=white">
   </a>
   &emsp; 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
